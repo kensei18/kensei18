@@ -21,3 +21,6 @@ https://www.linkedin.com/in/kensei-sakai/
 
 **Twitter**
 https://twitter.com/JozzJozz28
+
+**Blog**
+https://kensei18.hatenablog.com/
