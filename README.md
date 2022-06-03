@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kensei18&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-**Blog**
-https://kensei18.hatenablog.com/
-
 **LinkedIn**
 https://www.linkedin.com/in/kensei-sakai/
 
