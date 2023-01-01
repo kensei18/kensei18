@@ -25,4 +25,4 @@ https://twitter.com/JozzJozz28
 https://www.wantedly.com/id/kensei_sakai
 
 **業務経歴書**
-https://github.com/kensei18/redumeJA
+https://github.com/kensei18/resumeJA
