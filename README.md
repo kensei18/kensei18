@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kensei18&count_private=true&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![kensei18's GitHub stats](https://github-readme-stats-kensei18.vercel.app/api?username=kensei18&count_private=true&show_icons=true&theme=radical&count_private=true)](https://github.com/kensei18/github-readme-stats)
 
 **CV (業務経歴書)**
 https://github.com/kensei18/cv
