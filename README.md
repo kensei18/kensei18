@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kensei18&count_private=true&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-**CV**
+**CV (業務経歴書)**
 https://github.com/kensei18/cv
 
 **LinkedIn**
